@@ -1,0 +1,6 @@
+C:\Users\Sistemas\Documents\Visual Studio 2017\Projects\WSEjemplo\MiWS\bin\MiWS.dll.config
+C:\Users\Sistemas\Documents\Visual Studio 2017\Projects\WSEjemplo\MiWS\bin\MiWS.dll
+C:\Users\Sistemas\Documents\Visual Studio 2017\Projects\WSEjemplo\MiWS\bin\MiWS.pdb
+C:\Users\Sistemas\Documents\Visual Studio 2017\Projects\WSEjemplo\MiWS\obj\Release\MiWS.csproj.CoreCompileInputs.cache
+C:\Users\Sistemas\Documents\Visual Studio 2017\Projects\WSEjemplo\MiWS\obj\Release\MiWS.dll
+C:\Users\Sistemas\Documents\Visual Studio 2017\Projects\WSEjemplo\MiWS\obj\Release\MiWS.pdb

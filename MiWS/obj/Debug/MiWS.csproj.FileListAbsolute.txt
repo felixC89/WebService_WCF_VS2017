@@ -1,0 +1,7 @@
+C:\Users\Sistemas\Documents\Visual Studio 2017\Projects\WSEjemplo\MiWS\bin\MiWS.dll.config
+C:\Users\Sistemas\Documents\Visual Studio 2017\Projects\WSEjemplo\MiWS\bin\MiWS.dll
+C:\Users\Sistemas\Documents\Visual Studio 2017\Projects\WSEjemplo\MiWS\bin\MiWS.pdb
+C:\Users\Sistemas\Documents\Visual Studio 2017\Projects\WSEjemplo\MiWS\obj\Debug\MiWS.csprojAssemblyReference.cache
+C:\Users\Sistemas\Documents\Visual Studio 2017\Projects\WSEjemplo\MiWS\obj\Debug\MiWS.csproj.CoreCompileInputs.cache
+C:\Users\Sistemas\Documents\Visual Studio 2017\Projects\WSEjemplo\MiWS\obj\Debug\MiWS.dll
+C:\Users\Sistemas\Documents\Visual Studio 2017\Projects\WSEjemplo\MiWS\obj\Debug\MiWS.pdb

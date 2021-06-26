@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1169
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiWS", "MiWS\MiWS.csproj", "{78CF3D8C-F31A-49DA-B740-2877A4FB92F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClienteWCF", "ClienteWCF\ClienteWCF.csproj", "{14CA8C09-7042-46B2-8747-011A00139100}"
+	ProjectSection(ProjectDependencies) = postProject
+		{78CF3D8C-F31A-49DA-B740-2877A4FB92F4} = {78CF3D8C-F31A-49DA-B740-2877A4FB92F4}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78CF3D8C-F31A-49DA-B740-2877A4FB92F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78CF3D8C-F31A-49DA-B740-2877A4FB92F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78CF3D8C-F31A-49DA-B740-2877A4FB92F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78CF3D8C-F31A-49DA-B740-2877A4FB92F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14CA8C09-7042-46B2-8747-011A00139100}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14CA8C09-7042-46B2-8747-011A00139100}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14CA8C09-7042-46B2-8747-011A00139100}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14CA8C09-7042-46B2-8747-011A00139100}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {21E137EF-F2A1-402C-BA20-1AFBF6BB45EF}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+C:\Users\Sistemas\Documents\Visual Studio 2017\Projects\WSEjemplo\ClienteWCF\bin\Debug\ClienteWCF.exe.config
+C:\Users\Sistemas\Documents\Visual Studio 2017\Projects\WSEjemplo\ClienteWCF\bin\Debug\ClienteWCF.exe
+C:\Users\Sistemas\Documents\Visual Studio 2017\Projects\WSEjemplo\ClienteWCF\bin\Debug\ClienteWCF.pdb
+C:\Users\Sistemas\Documents\Visual Studio 2017\Projects\WSEjemplo\ClienteWCF\obj\Debug\ClienteWCF.csprojAssemblyReference.cache
+C:\Users\Sistemas\Documents\Visual Studio 2017\Projects\WSEjemplo\ClienteWCF\obj\Debug\ClienteWCF.Form1.resources
+C:\Users\Sistemas\Documents\Visual Studio 2017\Projects\WSEjemplo\ClienteWCF\obj\Debug\ClienteWCF.Properties.Resources.resources
+C:\Users\Sistemas\Documents\Visual Studio 2017\Projects\WSEjemplo\ClienteWCF\obj\Debug\ClienteWCF.csproj.GenerateResource.cache
+C:\Users\Sistemas\Documents\Visual Studio 2017\Projects\WSEjemplo\ClienteWCF\obj\Debug\ClienteWCF.csproj.CoreCompileInputs.cache
+C:\Users\Sistemas\Documents\Visual Studio 2017\Projects\WSEjemplo\ClienteWCF\obj\Debug\ClienteWCF.exe
+C:\Users\Sistemas\Documents\Visual Studio 2017\Projects\WSEjemplo\ClienteWCF\obj\Debug\ClienteWCF.pdb
